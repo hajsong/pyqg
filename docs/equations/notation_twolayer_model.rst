@@ -41,7 +41,7 @@ where
 .. math::
 
 
-   F_1 \equiv \frac{k_d^2}{1 + \delta^2}\,, \qquad \text{and} \qquad F_2 \equiv \delta \,F_1\,,
+   F_1 \equiv \frac{k_d^2}{1 + \delta}\,, \qquad \text{and} \qquad F_2 \equiv \delta \,F_1\,,
 
 with the deformation wavenumber
 
